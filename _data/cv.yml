@@ -25,18 +25,18 @@
       institution: The University of Illinois at Urbana-Champaign, IL, USA
       year: 2022
       description:
-        - Cumulative GPA: 3.95/4.0 (graduated with Highest Distinction)
+        - Cumulative GPA 3.95/4.0 (graduated with Highest Distinction)
         - Description 2.
 
     - title: Associate of Sciences in Computer Science
       institution: Diablo Valley COllege, CA, USA
       year: 2019
       description:
-        - GPA: 4.0/4.0 (graduated with Honors)
+        - GPA 4.0/4.0 (graduated with Honors)
         - Took CS 61B at UC Berkely in summer, 2017
 
     - title: Drop out
-      insitution: Hanyang University, Seoul, South Korea
+      institution: Hanyang University, Seoul, South Korea
       year: 2013
       description:
         - Dropped out after 2 years of study
