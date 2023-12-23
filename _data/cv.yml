@@ -80,7 +80,7 @@
   contents:
     - title: Grasp Detection using NeRF
       year: 2023.04 - 2023.05
-      skills: [ROS, PyTorch]
+      # skills: [ROS, PyTorch]
       description:
         # - ROS, PyTorch
         - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes
