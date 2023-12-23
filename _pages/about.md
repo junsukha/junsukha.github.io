@@ -21,9 +21,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi!
-I'm a 2nd year CS Master's student at Brown.\
-My area of interests taking AI advancements and shaping them into real products. Specifically, I dig applying neural rendering (especially NeRF related) to AR/VR and robotics in the following areas: 3D/4D scene understanding and reconstruction, SLAM, Navigation.
+Hi! I'm a 2nd year CS Master's student at Brown University.
+
+My research area of interests taking AI advancements and shaping them into real products. Specifically, I dig applying neural rendering (especially NeRF related) to AR/VR and robotics in the following areas: 3D/4D scene understanding and reconstruction, SLAM, Navigation.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
