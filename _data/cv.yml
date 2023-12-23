@@ -82,11 +82,12 @@
       year: 2023.04 - 2023.05
       # skills: [ROS, PyTorch]
       description:
-        - text: >-
-            - Skills: used: ROS, PyTorch
-            - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes 
+        # - text: >-
+        #     - Skills: used: ROS, PyTorch
+        #     - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes 
         # - Skills: used: ROS, PyTorch
-        # - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes
+        - Skills':' ROS, PyTorch
+        - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes
     - title: Quad-rotor helicopter
     - title: Computer Vision
     - title: 3D Neural Rendering
