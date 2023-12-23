@@ -75,20 +75,20 @@
     #   institution: University of Zurich, Zurich, Switzerland
     #   year: 1909 - 1911
 
-# - title: Projects
-#   type: time_table
-#   contents:
-#     - title: Grasp Detection using NeRF
-#       year: 2023.04 - 2023.05
-#       # skills: [ROS, PyTorch]
-#       description:
-#         # - ROS, PyTorch
-#         - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes
-#     - title: Quad-rotor helicopter
-#     - title: Computer Vision
-#     - title: 3D Neural Rendering
-#     - title: 3D Mesh
-#     - title: Computer Graphics
+- title: Projects
+  type: time_table
+  contents:
+    - title: Grasp Detection using NeRF
+      year: 2023.04 - 2023.05
+      # skills: [ROS, PyTorch]
+      description:
+        # - ROS, PyTorch
+        - Simulated material-agnostic object grasping in clutter using Franka Emika Panda based off of GraspNerF and VGN models; Used instantNGP & nerfStudio for rendering scenes
+    - title: Quad-rotor helicopter
+    - title: Computer Vision
+    - title: 3D Neural Rendering
+    - title: 3D Mesh
+    - title: Computer Graphics
 
 - title: Work Experience
   type: time_table
@@ -121,8 +121,7 @@
 - title: Other Experience
   type: time_table
   contents:
-    - title: Dental Specialist and KATUSA
-      institution: <a href="https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp">KATUSA</a>, Yongsan, Seoul, South Korea
+    - title: Dental Specialist and <a href="https://8tharmy.korea.army.mil/site/about/katusa-soldier-program.asp">KATUSA</a>      
       year: 2014.01 - 2016.01
       description:
         - Received military training with US Army
