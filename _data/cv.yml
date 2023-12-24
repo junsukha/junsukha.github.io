@@ -15,18 +15,18 @@
       institution: Brown University , RI, USA
       year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Coursework: Computer Vision, Advanced Computer Graphics, Intro to Robotics, 3D Robot Perception, Computational Photography
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: Bachelor of Science in Mathematics & Computer Science
       institution: The University of Illinois at Urbana-Champaign, IL, USA
       year: 2022
       description:
         - Cumulative GPA 3.95/4.0 (graduated with Highest Distinction)
-        - Description 2.
+        # - Description 2.
 
     - title: Associate of Sciences in Computer Science
       institution: Diablo Valley COllege, CA, USA
@@ -137,40 +137,40 @@
   type: list
   contents:
     - <u>Programming Languages:</u> Python, C++, LaTeX
-    - <u>Frameworks:</u> PyTorch, ROS, OpenCV, Pytorch, Tensorflow, OpenGL, Git, Docker, Heroku, Netlify, Unity
+    - <u>Frameworks:</u> PyTorch, ROS, OpenCV, Tensorflow, OpenGL, Git, Docker, Unity
     - <u>Languages:</u> Korean (native), English (fluent)
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items: 
+#         - Nobel Prize in Physics 
+#         - Matteucci Medal
+#     - year: 2029
+#       items: 
+#         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
