@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm a 2nd year CS Master's student at Brown University.
 
-My research area of interests taking AI advancements and shaping them into real products. Specifically, I dig applying neural rendering (especially NeRF related) to AR/VR and robotics in the following areas: 3D/4D scene understanding and reconstruction, SLAM, Navigation.
+My area of interests is to shape Machine Learning / Computer Vision / Reinforcement Learning research ideas into real products. Specifically for now, I dig applying neural rendering (especially NeRF related) to AR/VR and Robotics in the following areas: 3D/4D scene understanding and reconstruction, SLAM, Navigation.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
