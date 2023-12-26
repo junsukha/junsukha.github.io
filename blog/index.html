@@ -95,7 +95,6 @@ pagination:
   {% endif %}
 
   <ul class="post-list">
-    <!-- {% for post in paginator.posts %} -->
     {%- if page.pagination.enabled -%}
       {%- assign postlist = paginator.posts -%}
     {%- else -%}
@@ -169,7 +168,6 @@ pagination:
     {% endfor %}
   </ul>
 
-  <!-- {% include pagination.html %} -->
   {%- if page.pagination.enabled -%}
     {%- include pagination.html -%}
   {%- endif -%}
