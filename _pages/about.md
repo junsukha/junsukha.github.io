@@ -25,6 +25,8 @@ Hi! I'm a 2nd year CS Master's student at Brown University.
 
 My area of interests is to shape Machine Learning / Computer Vision / Reinforcement Learning research ideas into real products. Specifically for now, I dig applying neural rendering (especially NeRF related) to AR/VR and Robotics in the following areas: 3D/4D scene understanding and reconstruction, SLAM, Navigation, Telepresence.
 
+My favorite quote: "If you want to build a ship, don't drum up people to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea."
+- Antoine de Saint Exupéry
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
